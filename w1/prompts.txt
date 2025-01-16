@@ -1,0 +1,2 @@
+1. Đóng vai 1 lập trình viên Python chuyên nghiệp, hãy giải thích cho tôi là một người mới học lập trình về [...], cung cấp ví dụ minh họa để tôi hiểu rõ hơn. 
+2. Dựa vào nội dung của [đoạn hội thoại / file tải lên], đóng vai một giáo viên đặt câu hỏi để kiểm tra xem tôi có nắm được kiến thức hay không. Sau khi tôi trả lời, hãy nhận xét câu trả lời của tôi, giải thích lại nếu câu trả lời sai hoặc chưa đúng lắm. Gợi ý 1 vài mở rộng tìm hiểu thêm nếu câu trả lời đúng. Hỏi tôi có muốn tiếp tục hỏi nữa hay không. 
